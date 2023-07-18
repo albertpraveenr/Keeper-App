@@ -1,0 +1,38 @@
+.res{
+    display: flex;
+    
+}
+
+.box{
+    overflow: auto;
+    box-sizing: border-box;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border: 1px solid;
+    background-color: #feff9c;
+    font-family: Arial;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-stretch:wider;
+    font-weight: 500;
+    font-family: sans-serif;
+    
+}
+
+.icon1{
+    cursor: pointer;
+    color: red;
+    font-size: 25px
+     
+}
+
+.icon2{
+    cursor: pointer;
+    position: relative;
+    top: 15px;
+    
+    color: red;
+    font-size: 25px
+}
